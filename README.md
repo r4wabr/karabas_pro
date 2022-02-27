@@ -50,7 +50,6 @@ The idea was to make a smaller Profi (Профи) ZX Spectrum clone, with real F
 
 **Profi firmware** [Download a Profi firmware](https://github.com/r4wabr/karabas_pro/tree/master/firmware/releases/profi).
 
-**Donations** [See DONATIONS.md](https://github.com/andykarpov/karabas-pro/blob/master/DONATIONS.md).
 
 ### Pre-production renders:
 
