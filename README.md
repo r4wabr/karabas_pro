@@ -36,25 +36,25 @@ The idea was to make a smaller Profi (Профи) ZX Spectrum clone, with real F
 
 ## More info
 
-**ERRATA for PCB rev.A:** [See ERRATA Rev.A](https://github.com/andykarpov/karabas-pro/blob/master/ERRATA-REVA.md).
+**ERRATA for PCB rev.A:** [See ERRATA Rev.A](https://github.com/r4wabr/karabas_pro/blob/master/ERRATA-REVA.md).
 
-**ERRATA for PCB rev.B:** [See ERRATA Rev.B](https://github.com/andykarpov/karabas-pro/blob/master/ERRATA-REVB.md).
+**ERRATA for PCB rev.B:** [See ERRATA Rev.B](https://github.com/r4wabr/karabas_pro/blob/master/ERRATA-REVB.md).
 
-**ERRATA for PCB rev.С:** [See ERRATA Rev.С](https://github.com/andykarpov/karabas-pro/blob/master/ERRATA-REVC.md).
+**ERRATA for PCB rev.С:** [See ERRATA Rev.С](https://github.com/r4wabr/karabas_pro/blob/master/ERRATA-REVC.md).
 
 **Latest stable revision:** rev.DS'.
 
 **Latest development revision:** rev.E.
 
-**PCB changelog:** [PCB changelog](https://github.com/andykarpov/karabas-pro/blob/master/CHANGELOG-PCB.md).
+**PCB changelog:** [PCB changelog](https://github.com/r4wabr/karabas_pro/blob/master/CHANGELOG-PCB.md).
 
-**Profi firmware** [Download a Profi firmware](https://github.com/andykarpov/karabas-pro/tree/master/firmware/releases/profi).
+**Profi firmware** [Download a Profi firmware](https://github.com/r4wabr/karabas_pro/tree/master/firmware/releases/profi).
 
 **Donations** [See DONATIONS.md](https://github.com/andykarpov/karabas-pro/blob/master/DONATIONS.md).
 
 ### Pre-production renders:
 
-![image](https://github.com/andykarpov/karabas-pro/raw/master/docs/photos/karabas-pro-revER-top.png)
+![image](https://github.com/r4wabr/karabas_pro/raw/master/docs/photos/karabas-pro-revER-top.png)
 
-![image](https://github.com/andykarpov/karabas-pro/raw/master/docs/photos/karabas-pro-revER-bottom.png)
+![image](https://github.com/r4wabr/karabas_pro/raw/master/docs/photos/karabas-pro-revER-bottom.png)
 
